@@ -1,3 +1,3 @@
-module blockchain
+module go-blockchain
 
 go 1.22.2
